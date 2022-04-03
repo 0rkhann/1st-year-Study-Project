@@ -7,4 +7,5 @@ a process of preapring for exams can be fascinating, playing with your groupmate
 resolution of the screen should be higher than these parameters. As a result our team got the highest grade along all team. Also take into consideration, that this code was written by the Chemical Engineering(CE) students :)
 
 To launch a game, download a file named "UFAZpoly" and just double click to exe file and then enjoy playing ;)
+
 To see python code, open the py file (the py file contains a lot of lines of code, because I manually wrote into the code the question related to subjects)
