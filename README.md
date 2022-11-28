@@ -7,5 +7,3 @@ a process of preparing for exams can be fascinating, playing with your groupmate
 resolution of the screen should be higher than these parameters and it can be launched on Windows, no MacOS. As a result our team got the highest grade along all team.
 
 To launch a game, download a file named "UFAZpoly.exe" and just double click to exe file and then enjoy playing ;)
-
-To see python code, open the py file (the py file contains a lot of lines of code, because I manually wrote into the code the question related to subjects)
